@@ -31,7 +31,7 @@
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
-  - [License](#license-1)
+  - [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 
