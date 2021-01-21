@@ -27,7 +27,7 @@
   - [About The Project](#about-the-project)
     - [Built With](#built-with)
     - [Features](#features)
-  - [Installation](#Installation-🔌)
+  - [Installation](#installation)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
@@ -55,7 +55,7 @@ This is a simple command-line interface program demonstrating the use of data st
 
 
 
-## Installation 🔌
+## Installation
 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
