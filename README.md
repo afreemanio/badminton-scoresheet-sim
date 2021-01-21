@@ -9,9 +9,9 @@
 
 <p align="left">
   <p align="left">
-    <a href="https://github.com/afreemanio/badminton-scoresheet/issues">Report Bug</a>
+    <a href="https://github.com/afreemanio/badminton-scoresheet-sim/issues">Report Bug</a>
     ·
-    <a href="https://github.com/afreemanio/badminton-scoresheet/issues">Request Feature</a>
+    <a href="https://github.com/afreemanio/badminton-scoresheet-sim/issues">Request Feature</a>
     <br />
     <br />
     Badminton Score Tracking Program
@@ -59,7 +59,7 @@ This is a simple command-line interface program demonstrating the use of data st
 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/afreemanio/badminton-scoresheet.git
+       git clone https://github.com/afreemanio/badminton-scoresheet-sim.git
 2. Import it into Intellij IDEA or your Java IDE of choice
 3. Run the application!
 
@@ -67,7 +67,7 @@ Alternatively, to run it with the command line only:
 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/afreemanio/badminton-scoresheet.git
+       git clone https://github.com/afreemanio/badminton-scoresheet-sim.git
 
 2. Navigate to the repository using your terminal of choice
 
@@ -101,7 +101,7 @@ Alternatively, to run it with the command line only:
 
 Andrew Freeman - [@afreemanio](https://twitter.com/afreemanio) - andrewfreeman234@gmail.com
 
-Project Link: [https://github.com/afreemanio/badminton-scoresheet](https://github.com/afreemanio/badminton-scoresheet)
+Project Link: [https://github.com/afreemanio/badminton-scoresheet-sim](https://github.com/afreemanio/badminton-scoresheet-sim)
 
 
 ## License
@@ -113,16 +113,16 @@ Distributed under and usage provided for under the GNU GPL-3.0 License. See [LIC
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/afreemanio/badminton-scoresheet.svg?style=for-the-badge
-[contributors-url]: https://github.com/afreemanio/badminton-scoresheet/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/afreemanio/badminton-scoresheet.svg?style=for-the-badge
-[forks-url]: https://github.com/afreemanio/badminton-scoresheet/network/members
-[stars-shield]: https://img.shields.io/github/stars/afreemanio/badminton-scoresheet.svg?style=for-the-badge
-[stars-url]: https://github.com/afreemanio/badminton-scoresheet/stargazers
-[issues-shield]: https://img.shields.io/github/issues/afreemanio/badminton-scoresheet.svg?style=for-the-badge
-[issues-url]: https://github.com/afreemanio/badminton-scoresheet/issues
-[license-shield]: https://img.shields.io/github/license/afreemanio/badminton-scoresheet.svg?style=for-the-badge
-[license-url]: https://github.com/afreemanio/badminton-scoresheet/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/afreemanio/badminton-scoresheet-sim.svg?style=for-the-badge
+[contributors-url]: https://github.com/afreemanio/badminton-scoresheet-sim/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/afreemanio/badminton-scoresheet-sim.svg?style=for-the-badge
+[forks-url]: https://github.com/afreemanio/badminton-scoresheet-sim/network/members
+[stars-shield]: https://img.shields.io/github/stars/afreemanio/badminton-scoresheet-sim.svg?style=for-the-badge
+[stars-url]: https://github.com/afreemanio/badminton-scoresheet-sim/stargazers
+[issues-shield]: https://img.shields.io/github/issues/afreemanio/badminton-scoresheet-sim.svg?style=for-the-badge
+[issues-url]: https://github.com/afreemanio/badminton-scoresheet-sim/issues
+[license-shield]: https://img.shields.io/github/license/afreemanio/badminton-scoresheet-sim.svg?style=for-the-badge
+[license-url]: https://github.com/afreemanio/badminton-scoresheet-sim/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/afreemanio
 [product-screenshot]: https://imgur.com/lpaKw12.jpg

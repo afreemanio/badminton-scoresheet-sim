@@ -1,5 +1,18 @@
-/*
-Name: Andrew Freeman
+/* Copyright (C) 2021 Andrew Freeman
+ This file is part of badminton-scoresheet-sim.
+
+ badminton-scoresheet-sim is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ badminton-scoresheet-sim is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+
 Date of Last Update: May 1, 2020
 Badminton
 
@@ -13,7 +26,9 @@ There are two testing methods for this program, one utilizing the statistics for
 
 The method Badminton.testCase2() is used to test the program.
 The number of rallies in each game is set by the upTo variable within Badminton
- */
+
+*/
+
 
 
 package badminton;
